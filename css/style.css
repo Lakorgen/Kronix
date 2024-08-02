@@ -175,7 +175,6 @@ html {
     color: var(--color-title);
 }
 
-.header__top {}
 
 .header__top-inner {
     padding: 34px 50px 0;
@@ -199,7 +198,6 @@ html {
     margin-right: 77px;
 }
 
-.nav {}
 
 .nav__list {
     display: flex;
@@ -208,7 +206,6 @@ html {
     line-height: 1.6;
 }
 
-.nav__item {}
 
 .nav__link {
     position: relative;
@@ -289,7 +286,7 @@ html {
     padding: 120px 0;
 }
 
-.hero {}
+
 
 
 .hero__inner {
@@ -315,7 +312,7 @@ html {
     font-style: italic;
 }
 
-.title {}
+
 
 .hero__text {
     font-size: 18px;
@@ -370,10 +367,6 @@ html {
     padding: 33px 74px;
     flex-wrap: wrap;
 }
-
-.hero__brands-item {}
-
-.hero__brands-link {}
 
 .hero__brands-link path {
     transition: all .4s;
@@ -445,10 +438,6 @@ html {
     gap: 15px;
 }
 
-.how__cards-item {}
-
-.how__cards-item span {}
-
 .how__cards-img {
     background: var(--color-accent);
     max-width: 93px;
@@ -497,7 +486,7 @@ html {
     padding: 80px 0 85px;
 }
 
-.portfolio {}
+
 
 .portfolio__inner {
     display: flex;
@@ -695,9 +684,7 @@ html {
     /* border: 1px solid rgba(185, 253, 80, .09); */
 }
 
-.capabilities__cards-item:nth-child(1),
-.capabilities__cards-item:nth-child(2),
-.capabilities__cards-item:nth-child(3) {}
+
 
 .capabilities__cards-item:nth-child(4),
 .capabilities__cards-item:nth-child(5),
@@ -783,9 +770,7 @@ html {
     gap: 25px;
 }
 
-.testimonial__slider {}
 
-.swiper {}
 
 .testimonial__prev img,
 .testimonial__next img {
@@ -800,7 +785,6 @@ html {
 
 }
 
-.swiper-wrapper {}
 
 .testimonial__slide {
     border: 1px solid #d9d9d9;
@@ -814,7 +798,6 @@ html {
     /* min-height: 600px; */
 }
 
-.swiper-slide {}
 
 .slide__content {
     max-width: 495px;
@@ -876,7 +859,7 @@ html {
     width: 100%;
 }
 
-.testimonial__next {}
+
 
 
 .main__pricing {
@@ -888,7 +871,7 @@ html {
     color: var(--color-title);
 }
 
-.pricing__inner {}
+
 
 .pricing__subtitle {
     text-transform: uppercase;
@@ -991,7 +974,7 @@ html {
     gap: 17px;
 }
 
-.advantages__text {}
+
 
 .pricing__call-button {
     margin-bottom: 20px;
@@ -1000,7 +983,7 @@ html {
 
 
 
-.pricing__buy-button {}
+
 
 
 .main__blog {
@@ -1012,7 +995,7 @@ html {
     color: var(--color-title);
 }
 
-.blog__inner {}
+
 
 .blog__subtitle {
     line-height: 1.4;
@@ -1276,7 +1259,7 @@ html {
     color: var(--color-title);
 }
 
-.footer {}
+
 
 .footer__top {
     padding: 60px 30px;
@@ -1394,7 +1377,7 @@ html {
     gap: 24px;
 }
 
-.footer__item {}
+
 
 .footer__link {
     transition: all .4s;
@@ -1429,17 +1412,6 @@ html {
     justify-content: space-between;
     gap: 32px;
 }
-
-.footer__nav {}
-
-.nav {}
-
-.nav__list {}
-
-.nav__item {}
-
-.nav__link {}
-
 
 
 .footer__copy {
